@@ -4,6 +4,8 @@ module Atig
   end
 
   module IFilter
+    autoload :ExpandUrlUsingTwitterApi, 'atig/ifilter/expand_url_using_twitter_api'
+    autoload :ExpandUrlForMedia, 'atig/ifilter/expand_url_for_media'
     autoload :Via, 'atig/ifilter/via'
   end
 
