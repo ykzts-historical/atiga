@@ -14,6 +14,7 @@ module Atig
 
   module Command
     autoload :CopyAndPaste, 'atig/command/copy_and_paste'
+    autoload :Permalink, 'atig/command/permalink'
   end
 
   module Channel

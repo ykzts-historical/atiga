@@ -14,6 +14,8 @@ twitterのAPIを使用してアップロードされた画像をtwitterのwebを
 ### Atig::Command::CopyAndPaste
 任意の他者の発言をコピーして自分の発言にするコマンド。
 
-## todo
+### Atig::Command::Permalink
+任意の発言のパーマリンクを表示する通知するコマンド。
 
-- create gemspec
+## License
+Ruby License
